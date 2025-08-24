@@ -9,3 +9,7 @@ Aug 19th — my second birthday. After finishing my 18-month military service, I
 - Transformers methods / Training methods / RAG  
 
 To be honest, there’s so much to catch up on. It’s kind of scary — I feel a bit overwhelmed.
+
+## Reference (study links)
+
+I'm currently studying using [offical guide](https://python.langchain.com/docs/concepts/). Since it's an official document, there's a reason why I trust it the most. I'll gradually broaden the scope, but for now, I'm focusing on learning through this.
